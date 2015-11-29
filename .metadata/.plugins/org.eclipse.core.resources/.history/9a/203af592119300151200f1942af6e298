@@ -1,0 +1,18 @@
+package com.skills4testing.agate.web.register.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+
+
+
+@Controller
+public class CRegisterController {
+
+	@RequestMapping("/")
+	public  String showRegisterPager(){
+	
+		
+		return "register";
+	}
+}

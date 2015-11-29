@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+F:\ALL NEW WORKS\Knowledge Academy\JAVA_SPRING_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2957398545.index
+\agateTutorial\src
+F:\ALL NEW WORKS\Knowledge Academy\JAVA_SPRING_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1938320152.index
+\agateTutorial\src
+F:\ALL NEW WORKS\Knowledge Academy\JAVA_SPRING_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3849082100.index
+\spring-tutorial-60\src
+F:\ALL NEW WORKS\Knowledge Academy\JAVA_SPRING_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\630638440.index
+\agateSpringMVC\src\main\resources
+F:\ALL NEW WORKS\Knowledge Academy\JAVA_SPRING_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3610279646.index
+\agateTutorial\src

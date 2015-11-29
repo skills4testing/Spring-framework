@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;agateTutorial/src/com.skills4testing.agate.web.register.dao&apos;&#x0D;&#x0A;- Original project: &apos;spring-tutorial-60&apos;&#x0D;&#x0A;- Destination element: &apos;agateTutorial/src/com.skills4testing.agate.web.register.dao&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.caveofprogramming.spring.web.dao.OffersDAO.java&#x0D;&#x0A;     com.caveofprogramming.spring.web.dao.Offer.java" description="Copy compilation units" destination="=agateTutorial/src&lt;com.skills4testing.agate.web.register.dao" element1="/src&lt;com.caveofprogramming.spring.web.dao{OffersDAO.java" element2="/src&lt;com.caveofprogramming.spring.web.dao{Offer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1448474175943" units="2" version="1.0"/>
+</session>

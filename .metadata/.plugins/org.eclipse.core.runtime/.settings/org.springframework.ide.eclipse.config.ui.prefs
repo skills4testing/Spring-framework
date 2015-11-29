@@ -1,0 +1,7 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/agateTutorial/WebContent/WEB-INF/agate-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/agateTutorial/src/com/skills4testing/agate/web/register/config/dao-registe-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/agateTutorial/src/com/skills4testing/agate/web/register/config/dao-register-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/agateTutorial/src/com/skills4testing/agate/web/register/config/service-register-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/agateTutorial/src/com/skills4testing/missi/web/staff/config/dao-staff-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-tutorial-60/src/com/caveofprogramming/spring/web/config/dao-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

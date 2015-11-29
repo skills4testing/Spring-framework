@@ -1,0 +1,9 @@
+package com.skills4testing.agate.web.register.service;
+
+import org.springframework.stereotype.Service;
+
+
+@Service
+public class CRegistrationService {
+
+}

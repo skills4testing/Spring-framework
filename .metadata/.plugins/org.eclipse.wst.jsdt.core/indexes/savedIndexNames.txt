@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+F:\ALL NEW WORKS\Knowledge Academy\JAVA_SPRING_WS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2887679393.index
+1910066956.index
+1781321109.index
+2209195543.index
+1587799435.index
+3647952943.index

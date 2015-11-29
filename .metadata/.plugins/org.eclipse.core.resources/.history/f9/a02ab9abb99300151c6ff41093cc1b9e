@@ -1,0 +1,5 @@
+package com.skills4testing.agate.web.register.service.copy;
+
+public class CRegistrationService {
+
+}
